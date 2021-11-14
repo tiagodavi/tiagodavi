@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Software Engineer with over 10 years of experience and Artificial Intelligence Skills. I have a strong academic foundation on computer and data science, helped create several products and had the chance to learn how to be adaptable, work under deadlines and put focus on what really matters. I've never stopped studying and improving my skills.
+I am a Software Engineer with over 10 years of experience and Artificial Intelligence Skills. I have a strong academic foundation on computer science and machine learning, helped create several products and had the chance to learn how to be adaptable, work under deadlines and put focus on delivering value. I've never stopped studying and improving my skills.
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/tiagodavi">
