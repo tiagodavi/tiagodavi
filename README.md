@@ -5,7 +5,7 @@ I am a Software Engineer with over 10 years of experience and Artificial Intelli
 <div style="display: inline_block"><br>
   <a href="https://github.com/tiagodavi">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagodavi&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodavi&layout=compact&langs_count=7&theme=gruvbox&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodavi&layout=compact&langs_count=7&hide=php&theme=gruvbox&count_private=true"/>
   </a>
 </div>
   
