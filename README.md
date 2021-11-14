@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**tiagodavi/tiagodavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer with over 10 years of experience and Artificial Intelligence Skills. I have a strong academic foundation on computer and data science, helped create several products and had the chance to learn how to be adaptable, work under deadlines and put focus on what really matters. I've never stopped studying and improving my skills.
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <a href="https://github.com/tiagodavi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagodavi&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodavi&layout=compact&langs_count=7&theme=gruvbox&count_private=true"/>
+  </a>
+</div>
+  
+ <div style="display: inline_block"><br>
+   <a href="https://github.com/tiagodavi">
+    <img align="center" alt="Tiago-Elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
+    <img align="center" alt="Tiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Tiago-Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
+    <img align="center" alt="Tiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Tiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div style="display: inline_block"><br>
+  <a href = "mailto:tiago.asp.net@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/tiago-davi-br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
