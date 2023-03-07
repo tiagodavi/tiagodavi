@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-I am a Software Engineer with over 14 years of experience and Artificial Intelligence knowledge. Author of the book Elixir from zero to concurrency and having worked at companies like Apple, I have a solid academic foundation in computer science and machine learning. I helped to create many products and, throughout my career, had the chance to learn how to be adaptable and work in teams of different sizes, always trying to solve problems by respecting the project's restrictions. I've never stopped studying and improving my skills.
+As an experienced Software Engineer with over 14 years of experience, I bring a strong background in software development as well as artificial intelligence. I also authored the book
+"Elixir from Zero to Concurrency" and worked at prestigious companies like Apple. 
+
+My academic foundation in computer science and machine learning has allowed me to create numerous successful products, while my ability to adapt to varying team sizes and work within project constraints has led to continued success.
+
+I remain dedicated to ongoing professional development, consistently updating and improving my skill set to remain at the forefront of my field.
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/tiagodavi">
