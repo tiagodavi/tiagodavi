@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-14+ years of experience as Software Engineer, I excel in software development and artificial intelligence. I worked at top companies like Apple and adapt to different team sizes and project constraints while consistently upgrading my skills to stay at the forefront of the industry.
+With over 14 years of experience as a Software Engineer, including 5 years in Artificial Intelligence, I have worked at top companies like Apple, as well as numerous other companies and startups in the United States, United Kingdom, Brazil, and Norway. I have successfully adapted to teams of various sizes, ranging from small groups of 3 individuals to larger teams of 20. I am accustomed to working under project constraints, and I consistently strive to upgrade my skills every day.
 
 ## What sets me apart?
 
