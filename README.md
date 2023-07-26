@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-With over 14 years of experience as a Software Engineer, including 5 years in Artificial Intelligence, I have worked at top companies like Apple, as well as numerous other companies and startups in the United States, United Kingdom, Brazil, and Norway. I have successfully adapted to teams of various sizes, ranging from small groups of 3 individuals to larger teams of 20. I am accustomed to working under project constraints, and I consistently strive to upgrade my skills every day.
+With 15 years of experience as a Software Engineer, including 5 years in Artificial Intelligence, I have helped create over 50 projects throughout my career, many of them from scratch. I've worked at over 15 different companies with various challenges, including top companies like Apple, as well as startups in the United States, United Kingdom, Brazil, and Norway. I have successfully adapted to teams of various sizes, ranging from small groups of 3 individuals to larger teams of 20. I am used to working under project constraints, and I consistently strive to upgrade my skills every day.
 
 ## What sets me apart?
 
