@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-15 years of experience as Software Engineer, including 5 years in Artificial Intelligence, I have helped create over 50 projects throughout my career, many of them from scratch. I've worked at over 10 different companies with various challenges, including top companies like Apple, as well as startups in the United States, United Kingdom, Brazil, and Norway. I have successfully adapted to teams of various sizes, both in person and remotely.
+I have 15 years of experience as a Software Engineer, with expertise in Python for 5 years, Elixir for 5 years, and Rust for 2 years. Throughout my career, I have contributed to the creation of over 50 projects, many of which were built from the ground up. I've worked at more than 10 different companies, ranging from top-tier corporations like Apple to startups in the United States, United Kingdom, Brazil, and Norway. I have successfully adapted to teams of various sizes, both in-person and remotely.
 
 ## What sets me apart?
 
