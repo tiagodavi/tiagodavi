@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I have 15 years of experience as a Software Engineer, with expertise in Python for 5 years, Elixir for 5 years, and Rust for 2 years. Throughout my career, I have contributed to the creation of over 50 projects, many of which were built from the ground up. I've worked at more than 10 different companies, ranging from top-tier corporations like Apple to startups in the United States, United Kingdom, Brazil, and Norway. I have successfully adapted to teams of various sizes, both in-person and remotely.
+Over 15 years of experience as Software Engineer, including 6 years in Elixir, 5 years in Python and 2 years in Rust, I have helped create over 50 projects throughout my career, many of them from scratch. I've worked at over 10 different companies with various challenges, including top companies like Apple, as well as startups in the United States, United Kingdom, Brazil, and Norway.
 
 ## What sets me apart?
 
@@ -22,6 +22,11 @@ provides  valuable insights and knowledge on Elixir programming.
 The book is available on Amazon: 
 https://bit.ly/3WYnqrw
 
+### Authoring Courses:
+Author of "Asynchronous programming in Rust" on educative.io.
+
+Author of "Mastering Solana with Rust and JavaScript" on educative.io.
+
 ### Writing Articles:
 I frequently share my expertise and experiences through writing 
 articles. Some of my articles can be found at the following publications:
@@ -38,19 +43,6 @@ Here are a couple of examples:
 
 - YouTube Video 1: https://youtu.be/L0rJr9cC6bY
 - YouTube Video 2: https://youtu.be/OdlPfVLWhrI
-
-### Systemic Thinking:
-I possess strong problem-solving skills and apply systemic 
-thinking to develop creative solutions. 
-
-This approach was recognized by the team at Brainn.co when 
-I successfully utilized Levenshtein distance to prevent string 
-misunderstandings, ultimately saving time, money, and 
-improving customer satisfaction.
-
-These experiences and contributions showcase my dedication to 
-continuous learning, collaboration, and finding innovative 
-solutions to complex problems.
 
 
 <div style="display: inline_block"><br>
