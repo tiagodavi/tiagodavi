@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-With over 15 years of experience as a Software Engineer, including 6 years in Elixir, 5 years in Python, and 2 years in Rust, I have contributed to the development of over 50 projects throughout my career, with many of them initiated from the ground up. I've worked for more than 10 different companies, tackling various challenges, including renowned companies like Apple, as well as startups in the United States, United Kingdom, Brazil, and Norway.
+With over 15 years of experience as a Software Engineer, including 6 years in Elixir, 5 years in Python, 3 years in Node.JS and 2 years in Rust, I have contributed to the development of over 50 projects throughout my career, with many of them initiated from the ground up. I've worked for more than 10 different companies, tackling various challenges, including renowned companies like Apple, as well as startups in the United States, United Kingdom, Brazil, and Norway.
 
 ## What sets me apart?
 
