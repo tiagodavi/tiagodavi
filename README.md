@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-With over 15 years of experience as a Software Engineer, including 6 years in Elixir, 5 years in Python, 3 years in Node.JS and 2 years in Rust, I have contributed to the development of over 50 projects throughout my career, with many of them initiated from the ground up. I've worked for more than 10 different companies, tackling various challenges, including renowned companies like Apple, as well as startups in the United States, United Kingdom, Brazil, and Norway.
+With a robust 15-year background as a Software Engineer, spanning 6 years in Elixir, 5 years in Python (Machine Learning), 3 years in Node/Next.JS, and 2 years in Rust (Blockchain), I've played a pivotal role in actively contributing to the completion of over 50 projects throughout my career, many of which were launched from scratch. My expertise spans diverse challenges faced in more than 10 companies, ranging from established entities like Apple to startups in the United States, United Kingdom, Brazil, and Norway
 
 ## What sets me apart?
+
+Ranked among the top 100 developers at IBM.
 
 ### Open Source Contributions:
 I actively contribute to open source projects, demonstrating my 
