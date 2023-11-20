@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-With a robust 15-year background as a Software Developer, spanning 6 years in Elixir, 5 years in Python (Machine Learning), 3 years in Node/Next.JS, and 2 years in Rust (Blockchain), I've played a pivotal role in actively contributing to the completion of over 50 projects throughout my career, many of which were launched from scratch. My experience as Engineer spans diverse challenges faced in more than 10 companies, ranging from established entities like Apple to startups in the United States, United Kingdom, Brazil, and Norway.
+With a robust 15-year background as a Software Developer, spanning 6 years in Elixir, 5 years in Python (Machine Learning), 3 years in Node/Next.JS, 2 years in Rust (Blockchain), and 2 years in Flutter (Mobile), I've played a pivotal role in actively contributing to the completion of around 50 projects throughout my career, many of which were launched from scratch. My experience as Engineer spans diverse challenges faced in more than 10 companies, ranging from established entities like Apple to startups in the United States, United Kingdom, Brazil, and Norway.
 
 ## What sets me apart?
 
