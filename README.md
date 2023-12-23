@@ -28,11 +28,6 @@ provides  valuable insights and knowledge on Elixir programming.
 The book is available on Amazon: 
 https://bit.ly/3WYnqrw
 
-### Authoring Courses:
-Author of "Asynchronous programming in Rust" on educative.io.
-
-Author of "Mastering Solana with Rust and JavaScript" on educative.io.
-
 ### Writing Articles:
 I frequently share my expertise and experiences through writing 
 articles. Some of my articles can be found at the following publications:
