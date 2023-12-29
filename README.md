@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-With a robust 15-year background as Software Developer, spanning 6 years in Elixir, 5 years in Python (Machine Learning), and 2 years in Flutter (Mobile).
+With a robust 15-year background as Software Developer, spanning 6 years in Elixir (Distributed Systems),  6 years in Python (AI), and 3 years in Flutter (Mobile), I've played a pivotal role in actively contributing to the completion of around 50 projects throughout my career, many of which were launched from scratch. 
 
-I've played a pivotal role in actively contributing to the completion of around 50 projects throughout my career, many of which were launched from scratch. 
-
-My experience as Engineer spans diverse challenges faced in more than 10 companies, ranging from established entities like Apple to startups in the United States, United Kingdom, Brazil, and Norway.
+I'm product-centric who enjoys abstracting concepts and looking at problems from multiple perspectives. My experience as engineer spans diverse challenges faced in more than 10 companies, ranging from established entities like Apple to startups in the United States, United Kingdom, Brazil, and Norway.
 
 ## What sets me apart?
 
