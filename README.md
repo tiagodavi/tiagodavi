@@ -1,11 +1,45 @@
 ## Hi there 👋
+I have been working as software / machine learning engineer for multiples companies for over 15 years. My experience spans diverse challenges faced in more than 10 companies and about 50 projects, ranging from established entities like Apple to startups in the United States, United Kingdom, Brazil, and Norway.
 
-With a robust 15-year background as Software Developer, spanning 6 years in Elixir (Distributed Systems),  6 years in Python (AI), and 3 years in Flutter (Mobile), I've played a pivotal role in actively contributing to the completion of around 50 projects throughout my career, many of which were launched from scratch. 
+🔵 Elixir Skills:
+- About 10 projects deployed in Elixir.
+- Strong knowledge of Elixir, Phoenix and LiveView.
+- Strong Knowledge of OTP and Distributed nodes.
+- Author of "Elixir from zero to Concurrency" on Amazon.
+- Open Source contributions on Elixir Projects such as Nx and Scholar. 
+- Experience in GraphQL with Absinthe.
+- Experience in Phoenix Presence and WebSockets.
 
-I'm product-centric who enjoys abstracting concepts and looking at problems from multiple perspectives. My experience as engineer spans diverse challenges faced in more than 10 companies, ranging from established entities like Apple to startups in the United States, United Kingdom, Brazil, and Norway.
+🔵 Rust Skills:
+- 2 projects deployed in Rust.
+- Strong knowledge of Rust and Rocket Framework. 
+- Knowledge of Near Blockchain.
+- Knowledge of Tokio and Rayon.
+
+🔵 Python Skills:
+- 3 projects deployed in Python.
+- Knowledge of LLMs (Prompt Engineering) and Vector Databases.
+- Experience with Neo4J and distance measures.
+- Experience in TensorFlow and Flask / FastAPI.
+- Knowledge of Computer Vision and NLP.
+- Knowledge of Machine Learning and Nvidia Rapids. 
+- Ranked among the top 100 developers at IBM.
+
+🔵 Flutter Skills:
+- 3 mobile apps deployed in Flutter.
+- Experience in Figma / UX Design.
+- Experience in Mobile apps and Flutter / Dart.
+
+🔵 JavaScript Skills:
+- 2 Web Apps developed with Node.JS and Express.
+- Experience with Next.Js and TypeScript.
+- Helped to add around 4 new features to React Applications at Savi. 
+- Many years touching different JavaScript projects.
+
+## Interview with me
+http://tinyurl.com/interview-with-tiago
 
 ## What sets me apart?
-
 Ranked among the top 100 developers at IBM.
 
 ### Open Source Contributions:
