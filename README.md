@@ -77,6 +77,7 @@ Here are a couple of examples:
 - YouTube Video 1: https://youtu.be/L0rJr9cC6bY
 - YouTube Video 2: https://youtu.be/OdlPfVLWhrI
 
+[![Contact me on Codementor](https://www.codementor.io/m-badges/tiagodavi/im-a-cm-b.svg)](https://www.codementor.io/@tiagodavi?refer=badge)
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/tiagodavi">
