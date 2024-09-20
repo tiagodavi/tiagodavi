@@ -1,5 +1,5 @@
 ## Hi there 👋
-I have been working as software / machine learning engineer for multiples companies for over 15 years. My experience spans diverse challenges faced in more than 10 companies and about 50 projects, ranging from established entities like Apple to startups in the United States, United Kingdom, Brazil, and Norway.
+Ranked among the top 100 engineers in the IBM AI competition and the top 60 in the Langflow AI competition, he has over 15 years of experience working as a Software and AI Learning Engineer. He has contributed to more than 50 projects across 10 companies, ranging from established organizations like Apple to startups in the United States, United Kingdom, Brazil, and Norway. His expertise spans multiple technologies, including Elixir, Python, Rust, and Flutter.
 
 🔵 Elixir Skills:
 - About 10 projects deployed in Elixir.
