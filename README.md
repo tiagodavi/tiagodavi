@@ -36,11 +36,8 @@ Ranked among the top 100 engineers in the IBM AI competition and the top 60 in t
 - Helped to add around 4 new features to React Applications at Savi. 
 - Many years touching different JavaScript projects.
 
-## Interview with me
-http://tinyurl.com/interview-with-tiago
-
 ## What sets me apart?
-Ranked among the top 100 developers at IBM.
+Business vision, I use tools and technology to deliver tangible value to the companies.
 
 ### Open Source Contributions:
 I actively contribute to open source projects, demonstrating my 
