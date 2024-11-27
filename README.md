@@ -1,5 +1,5 @@
 ## Hi there 👋
-Ranked among the top 100 engineers in the IBM AI competition and the top 60 in the Langflow AI competition, he has over 15 years of experience working as a Software and AI Engineer. He has contributed to more than 50 projects across 10 companies, ranging from established organizations like Apple to startups in the United States, United Kingdom, Brazil, and Norway. His expertise spans multiple technologies, including Elixir, Python, Rust, and Flutter.
+Ranked among the top 100 engineers in the IBM AI competition and the top 60 in the Langflow AI competition, he has over 15 years of experience working as a Software and AI Engineer. He has contributed to more than 50 projects across 10 companies, ranging from established organizations like Apple to startups in the United States, United Kingdom, Brazil, and Norway. His expertise spans multiple technologies, including Elixir, Python, Rust, and Typescript.
 
 🔵 Elixir Skills:
 - About 10 projects deployed in Elixir.
@@ -10,7 +10,7 @@ Ranked among the top 100 engineers in the IBM AI competition and the top 60 in t
 - Experience in GraphQL with Absinthe.
 - Experience in Phoenix Presence and WebSockets.
 
-🔵 Rust Skills:
+🔵  Rust Skills:
 - 2 projects deployed in Rust.
 - Strong knowledge of Rust and Rocket Framework. 
 - Knowledge of Near Blockchain.
@@ -25,17 +25,13 @@ Ranked among the top 100 engineers in the IBM AI competition and the top 60 in t
 - Knowledge of Machine Learning and Nvidia Rapids. 
 - Ranked among the top 100 developers at IBM.
 
-🔵 Flutter Skills:
-- 3 mobile apps deployed in Flutter.
-- Experience in Figma / UX Design.
-- Experience in Mobile apps and Flutter / Dart.
-
-🔵 JavaScript Skills:
+🔵 JavaScript/Typescript Skills:
 - 2 Web Apps developed with Node.JS and Express.
-- Experience with Next.Js and TypeScript.
+- Experience with React, Next.Js and TypeScript.
+- Worked full time with React and TypeScript at Glimpse.
 - Helped to add around 4 new features to React Applications at Savi. 
-- Many years touching different JavaScript projects.
-
+- Many years touching different JavaScript and React projects.
+  
 ## What sets me apart?
 Business vision, I use tools and technology to deliver tangible value to the companies.
 
