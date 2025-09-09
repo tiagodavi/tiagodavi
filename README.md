@@ -10,27 +10,27 @@ Ranked among the top 100 engineers in the IBM AI competition and the top 60 in t
 - Experience in GraphQL with Absinthe.
 - Experience in Phoenix Presence and WebSockets.
 
+🔵 Python Skills:
+- 4 projects deployed in Python.
+- Knowledge of LLMs (Structured Outputs/Prompts/Measurements), RAG, Agents and Vector Databases.
+- Experience with Knowledge Graph, Neo4J and distance measures.
+- Experience with FastAPI.
+- Knowledge of Computer Vision and NLP.
+- Knowledge of Traditional Machine Learning and Nvidia Rapids. 
+- Ranked among the top 100 ML developers at IBM competitions.
+
+🔵 JavaScript/Typescript/React/React Native Skills:
+- 2 Web Apps developed with Node.JS, Express and NextJS.
+- 1 Mobile app developed with React Native and Expo.
+- Worked full time with React and TypeScript at Glimpse.
+- Helped to add around 5 new features to React Applications at Savi. 
+- Many years touching different JavaScript/Typescript and React projects.
+
 🔵  Rust Skills:
 - 2 projects deployed in Rust.
 - Strong knowledge of Rust and Rocket Framework. 
 - Knowledge of Near Blockchain.
 - Knowledge of Tokio and Rayon.
-
-🔵 Python Skills:
-- 3 projects deployed in Python.
-- Knowledge of LLMs (Prompt Engineering) and Vector Databases.
-- Experience with Neo4J and distance measures.
-- Experience in TensorFlow and Flask / FastAPI.
-- Knowledge of Computer Vision and NLP.
-- Knowledge of Machine Learning and Nvidia Rapids. 
-- Ranked among the top 100 developers at IBM.
-
-🔵 JavaScript/Typescript Skills:
-- 2 Web Apps developed with Node.JS and Express.
-- Experience with React, Next.Js and TypeScript.
-- Worked full time with React and TypeScript at Glimpse.
-- Helped to add around 4 new features to React Applications at Savi. 
-- Many years touching different JavaScript and React projects.
   
 ## What sets me apart?
 Business vision, I use tools and technology to deliver tangible value to the companies.
@@ -67,8 +67,8 @@ https://bit.ly/42A1KU3
 I create engaging and informative videos on various topics. 
 Here are a couple of examples:
 
-- YouTube Video 1: https://youtu.be/L0rJr9cC6bY
-- YouTube Video 2: https://youtu.be/OdlPfVLWhrI
+- YouTube Video 1: https://youtu.be/pELHcLK9Gw0
+- YouTube Video 2: https://youtu.be/o9mmnzQUvq8
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/tiagodavi/im-a-cm-b.svg)](https://www.codementor.io/@tiagodavi?refer=badge)
 
