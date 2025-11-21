@@ -1,5 +1,11 @@
+ <a href="https://www.credly.com/badges/cd543c94-362c-4eb4-b997-68c15b9b1ac1/public_url" target="_blank">
+   <img src="https://images.credly.com/size/340x340/images/095c660a-fee3-4fcb-9d0f-04e16b26d6dd/blob" target="_blank">
+ </a> 
+ 
 ## Hi there 👋
-Ranked among the top 100 engineers in the IBM AI competition and the top 60 in the Langflow AI competition, he has over 15 years of experience working as a Software and AI Engineer. He has contributed to more than 50 projects across 10 companies, ranging from established organizations like Apple to startups in the United States, United Kingdom, Brazil, and Norway. His expertise spans multiple technologies, including Elixir, Python, Rust, and Typescript.
+I'm a full-stack software engineer with over 15 years of experience in computer science, 5 years in artificial intelligence, and around 50 projects built from the ground up. I've contributed to open source, authored a technical book on Elixir, and ranked in two global AI competitions. I specialize in designing optimized solutions under uncertainty by combining research, technology, critical and system thinking to build intelligent, distributed, and reliable applications.
+
+Remote Only!
 
 🔵 Elixir Skills:
 - About 10 projects deployed in Elixir.
@@ -12,23 +18,23 @@ Ranked among the top 100 engineers in the IBM AI competition and the top 60 in t
 
 🔵 Python Skills:
 - 4 projects deployed in Python.
-- Knowledge of LLMs (Structured Outputs/Prompts/Measurements), RAG, Agents and Vector Databases.
+- Knowledge of LLMs (Structured Outputs/Prompts/Measurements), RAG, Agents and Vectors
 - Experience with Knowledge Graph, Neo4J and distance measures.
 - Experience with FastAPI.
 - Knowledge of Computer Vision and NLP.
-- Knowledge of Traditional Machine Learning and Nvidia Rapids. 
+- Knowledge of Traditional Machine Learning and Nvidia Rapids.
 - Ranked among the top 100 ML developers at IBM competitions.
 
 🔵 JavaScript/Typescript/React/React Native Skills:
 - 2 Web Apps developed with Node.JS, Express and NextJS.
 - 1 Mobile app developed with React Native and Expo.
 - Worked full time with React and TypeScript at Glimpse.
-- Helped to add around 5 new features to React Applications at Savi. 
+- Helped to add around 5 new features to React Applications at Savi.
 - Many years touching different JavaScript/Typescript and React projects.
 
-🔵  Rust Skills:
+🔵 Rust Skills:
 - 2 projects deployed in Rust.
-- Strong knowledge of Rust and Rocket Framework. 
+- Strong knowledge of Rust and Rocket Framework.
 - Knowledge of Near Blockchain.
 - Knowledge of Tokio and Rayon.
   
@@ -78,19 +84,7 @@ Here are a couple of examples:
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodavi&layout=compact&langs_count=7&hide=php&theme=gruvbox&count_private=true"/>
   </a>
 </div>
-  
- <div style="display: inline_block"><br>
-   <a href="https://github.com/tiagodavi">
-    <img align="center" alt="Tiago-Elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
-    <img align="center" alt="Tiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Tiago-Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
-    <img align="center" alt="Tiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Tiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    </a>
+<div style="display: inline_block"><br>
+ <a href = "mailto:tiago.asp.net@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/tiago-davi-br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-  <div style="display: inline_block"><br>
-  <a href = "mailto:tiago.asp.net@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tiago-davi-br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
