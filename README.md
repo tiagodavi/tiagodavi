@@ -1,9 +1,9 @@
  <a href="https://www.credly.com/badges/cd543c94-362c-4eb4-b997-68c15b9b1ac1/public_url" target="_blank">
-   <img src="https://images.credly.com/size/340x340/images/095c660a-fee3-4fcb-9d0f-04e16b26d6dd/blob" target="_blank">
+   <img src="https://images.credly.com/size/340x340/images/095c660a-fee3-4fcb-9d0f-04e16b26d6dd/blob" width="340" target="_blank">
  </a> 
 
  <a href="https://black.q-ctrl.com/badge/8e793552-e7ca-4cd4-b01c-e5cc1bee81be" target="_blank">
-   <img src="https://content-service.q-ctrl.com/cms/documents/1191/badge-verification-introduction_3P0y73z.svg" target="_blank">
+   <img src="https://content-service.q-ctrl.com/cms/documents/1191/badge-verification-introduction_3P0y73z.svg" width="340" target="_blank">
  </a> 
 
  
