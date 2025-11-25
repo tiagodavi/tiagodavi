@@ -1,6 +1,11 @@
  <a href="https://www.credly.com/badges/cd543c94-362c-4eb4-b997-68c15b9b1ac1/public_url" target="_blank">
    <img src="https://images.credly.com/size/340x340/images/095c660a-fee3-4fcb-9d0f-04e16b26d6dd/blob" target="_blank">
  </a> 
+
+ <a href="https://black.q-ctrl.com/badge/8e793552-e7ca-4cd4-b01c-e5cc1bee81be" target="_blank">
+   <img src="https://content-service.q-ctrl.com/cms/documents/1191/badge-verification-introduction_3P0y73z.svg" target="_blank">
+ </a> 
+
  
 ## Hi there 👋
 I'm a full-stack software engineer with over 15 years of experience in computer science, 5 years in artificial intelligence, and around 50 projects built from the ground up. I've contributed to open source, authored a technical book on Elixir, and ranked in two global AI competitions. I specialize in designing optimized solutions under uncertainty by combining research, technology, critical and system thinking to build intelligent, distributed, and reliable applications.
