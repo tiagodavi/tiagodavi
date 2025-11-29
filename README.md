@@ -10,10 +10,6 @@
    <img src="https://content-service.q-ctrl.com/cms/documents/1192/badge-verification-superposition_7Jey122.svg" width="340" target="_blank">
  </a> 
 
- <a href="https://black.q-ctrl.com/badge/3fb6bdb2-3f46-4ce5-b901-ecd9558722c4" target="_blank">
-   <img src="https://content-service.q-ctrl.com/cms/documents/1192/badge-verification-superposition_7Jey122.svg" width="340" target="_blank">
- </a> 
-
  <a href="https://black.q-ctrl.com/badge/2759e687-1d32-47c6-aeb7-4bf8f4cf7690" target="_blank">
    <img src="https://content-service.q-ctrl.com/cms/documents/1193/badge-verification-qubits_1gfW71M.svg" width="340" target="_blank">
  </a>
