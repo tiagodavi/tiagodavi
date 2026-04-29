@@ -1,5 +1,7 @@
 ## Hi there 👋
-I'm a full-stack software engineer with over 15 years of experience in computer science, 5 years in artificial intelligence, and around 50 projects built from the ground up. I've contributed to open source, authored a technical book on Elixir, and ranked in two global AI competitions. I specialize in designing optimized solutions under uncertainty by combining research, technology, critical and system thinking to build intelligent, distributed, and reliable applications.
+Solutions Architect & Systems Engineer operating at the intersection of high-performance backends, data engineering, and machine learning. With 18+ years in computer science and 6+ in AI, open source contributor, elixir technical book author, and global AI competition ranker, I possess the rare ability to dive deep into specific stacks while maintaining a high-level architectural vision.
+
+I specialize in bridging distinct technological layers integrating Elixir's concurrency for scalable orchestration, Python's AI/ML capabilities for intelligence, and DataBricks/Modal for robust data engineering. While others focus on individual components, I design the 'glue' that holds them together, transforming isolated services into unified, cost-efficient, and intelligent production systems.
 
 Remote Only!
 
