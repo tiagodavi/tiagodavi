@@ -1,7 +1,7 @@
 ## Hi there 👋
-Solutions Architect & Systems Engineer operating at the intersection of high-performance backends, data engineering, and machine learning. With 18+ years in computer science and 6+ in AI, open source contributor, elixir technical book author, and global AI competition ranker, I possess the rare ability to dive deep into specific stacks while maintaining a high-level architectural vision.
-
-I specialize in bridging distinct technological layers integrating Elixir's concurrency for scalable orchestration, Python's AI/ML capabilities for intelligence, and DataBricks/Modal for robust data engineering. While others focus on individual components, I design the 'glue' that holds them together, transforming isolated services into unified, cost-efficient, and intelligent production systems.
+Elixir/Python Solutions Architect with 18+ years in software engineering and 6+ years in AI/ML. I design the
+integration layer that unifies high-concurrency Elixir backends, Python AI pipelines, and Databricks/Modal data
+platforms into production-grade, cost-efficient systems. Published Elixir book author, open-source contributor to the Elixir ML ecosystem (NX & Scholar), and technical writer with proven results from startup to enterprise.
 
 Remote Only!
 
