@@ -1,5 +1,5 @@
 ## Hi there 👋
-Solutions Architect and Software Engineer with 18+ years building software products and 6+ years in AI/ML. I specialize in the integration layer that unifies high-concurrency Elixir backends, Python AI/ML pipelines, and data engineering platforms into scalable, cost-efficient systems. Published Elixir author and open-source contributor to the Elixir ML ecosystem (NX & Scholar), with proven impact from startup to enterprise.
+Principal Software Engineer & Architect with 18+ years building software products and 6+ years in AI/ML. I specialize in the integration layer that unifies high-concurrency Elixir backends, Python AI/ML pipelines, and data engineering platforms into scalable, cost-efficient systems. Published Elixir author and open-source contributor to the Elixir ML ecosystem (NX & Scholar), with proven impact from startup to enterprise.
 
 🔵 CAREER HIGHLIGHTS:
 
@@ -8,7 +8,8 @@ Solutions Architect and Software Engineer with 18+ years building software produ
 - **Production AI at scale:** designed and deployed a RAG + Vector Search + LLM system (semantic search, classification, clustering).
 - **Enterprise multi-tenancy:** architected physical data isolation on Databricks + Elixir for compliance.
 - **Real-time edge platform:** bidirectional sync between an Elixir cluster and 2,000+ embedded devices (Raspberry Pi, NVIDIA Jetson).
-Top 100 of 70,000+ developers in Latin America at IBM Behind the Code - twice (2020 & 2021).
+- **Top 100 of 70,000+ developers** in Latin America at IBM Behind the Code - twice (2020 & 2021).
+- **Tech Mentor:** Guide engineering teams and developers toward sound technical decisions that align with business goals.
 
 ## What sets me apart?
 Business vision, I use tools and technology to deliver tangible value to the companies.
