@@ -1,6 +1,8 @@
 ## Hi there 👋
 Principal Software Engineer & Architect with 18+ years building software products and 6+ years in AI/ML. I specialize in the integration layer that unifies high-concurrency Elixir backends, Python AI/ML pipelines, and data engineering platforms into scalable, cost-efficient systems. Published Elixir author and open-source contributor to the Elixir ML ecosystem (NX & Scholar), with proven impact from startup to enterprise.
 
+Available exclusively for fully remote, worldwide positions.
+
 🔵 CAREER HIGHLIGHTS:
 
 - **97% latency cut:** reduced survey cloning from 16 hours to 30 minutes in Elixir/PostgreSQL.
