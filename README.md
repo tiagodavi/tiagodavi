@@ -5,7 +5,7 @@ Available exclusively for fully remote, worldwide positions.
 
 🔵 CAREER HIGHLIGHTS:
 
-- **Quality Control in the AI Era:** identify gaps and mismatches between intended behavior and implementation.
+- **Quality Assurance in the AI Era:** identify gaps and mismatches between intended behavior and implementation.
 - **Tech Leadership:** cross-team guidance toward sound technical decisions that align with business goals.
 - **97% latency cut:** reduced survey cloning from 16 hours to 30 minutes in Elixir/PostgreSQL.
 - **Sub-second analytics** over 75M+ data points (from a 35-second baseline) in Elixir/PostgreSQL.
