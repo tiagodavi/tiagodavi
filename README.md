@@ -1,5 +1,5 @@
 ## Hi there 👋
-Principal Software Engineer with 15+ years building software products and 6+ years in AI/ML. I specialize in the integration layer that unifies high-concurrency backends, AI/ML pipelines, and data engineering platforms into scalable and cost-efficient systems. Published Elixir author and open-source contributor to the Elixir ML ecosystem (NX & Scholar), with proven impact from startup to enterprise.
+Software Engineer with 15+ years building software products and 5+ years in AI/ML. Published Elixir author and open-source contributor to the Elixir ML ecosystem (NX & Scholar), with proven impact from startup to enterprise.
 
 Available exclusively for fully remote, worldwide positions.
 
