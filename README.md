@@ -9,13 +9,13 @@ Available exclusively for fully remote, worldwide positions.
 
 🔵 CAREER HIGHLIGHTS:
 
-- **Quality Assurance in the AI Era:** identify gaps and mismatches between intended behavior and implementation.
-- **Tech Leadership:** cross-team guidance toward sound technical decisions that align with business goals.
+- **Quality in the AI Era:** identified gaps and mismatches between intended behavior, implementation, and the data used to validate it.
+- **Tech Leadership:** helped other engineers avoid outsourcing their judgment to LLMs and confusing output volume with progress.
 - **97% latency cut:** reduced survey cloning from 16 hours to 30 minutes in Elixir/PostgreSQL.
-- **Sub-second analytics** over 75M+ data points (from a 35-second baseline) in Elixir/PostgreSQL.
-- **Production AI at scale:** designed and deployed a RAG + Vector Search + LLM system (semantic search, classification, clustering).
+- **Sub-second analytics:** improved performance over 75M+ data points (from a 35-second baseline) in Elixir/PostgreSQL.
+- **Production AI at scale:** designed and deployed a RAG + Vector Search + LLM system (semantic search, classification, clustering) from scratch in Elixir/Python/Qdrant.
 - **Enterprise multi-tenancy:** architected physical data isolation on Databricks + Elixir for compliance.
-- **Real-time edge platform:** bidirectional sync between an Elixir cluster and 2,000+ embedded devices (Raspberry Pi, NVIDIA Jetson).
+- **Real-time edge platform:** developed bidirectional sync between an Elixir cluster and 2,000+ embedded devices (Raspberry Pi, NVIDIA Jetson).
 - **Top 100 of 70,000+ developers** in Latin America at IBM Behind the Code - twice (2020 & 2021).
 
 ## What sets me apart?
