@@ -3,7 +3,7 @@ I am not here to convince you I am perfect. I am here to show, through evidence,
 
 I started my career long before the current AI era, building software across startups and enterprise environments. That experience gave me strong engineering fundamentals and AI has made me even more deliberate about them: maintainability, scalability, observability, API design, testability, performance, and a clear-eyed understanding of the business.
 
-I bring 15+ years of experience building software products, including 6+ years in AI and traditional machine learning. I am AI-fluent without losing sight of fundamental software engineering principles. I am also a published Elixir author and an open-source contributor to the Elixir ML ecosystem, including Nx and Scholar, with experience delivering impact from startups to enterprise.
+I bring 15+ years of experience building software products, including 5+ years in AI and traditional machine learning techniques. I am AI-fluent without losing sight of fundamental software engineering principles. I am also a published Elixir author and an open-source contributor to the Elixir ML ecosystem, including Nx and Scholar, with experience delivering impact from startups to enterprise.
 
 Available exclusively for fully remote, worldwide positions.
 
